@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 我的学习记录
 
-You can use the [editor on GitHub](https://github.com/lllpla/lllpla.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### java
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- springboot
 
-### Markdown
+-  shrio
+-  mybatis
+-  mybatis-plus
+-  lambda
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### python
 
-```markdown
-Syntax highlighted code block
+- pygame[[https://evanli.github.io/programming-book-3/Python/%E7%94%A8Python%20%E5%92%8C%20Pygame%20%E5%86%99%E6%B8%B8%E6%88%8F%20-%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.pdf](https://evanli.github.io/programming-book-3/Python/用Python 和 Pygame 写游戏 - 从入门到精通.pdf)]:
 
-# Header 1
-## Header 2
-### Header 3
+- qt
 
-- Bulleted
-- List
+### 前端
 
-1. Numbered
-2. List
+- react
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lllpla/lllpla.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- vue
